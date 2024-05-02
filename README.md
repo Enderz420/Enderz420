@@ -1,17 +1,17 @@
 # more pending soon
 ![Visitor Count](https://profile-counter.glitch.me/{Enderz420}/count.svg)
 ## What I do
-~~ãrson~~
+~~arson~~
 
 ## I love 💰💰💰💰
 
 ---
 
-###  Stats :
+##  Stats
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enderz420&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=tokyonight)
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
