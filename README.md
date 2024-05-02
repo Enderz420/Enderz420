@@ -1,5 +1,5 @@
 # more pending soon
-
+![Visitor Count](https://profile-counter.glitch.me/{Enderz420}/count.svg)
 ## What I do
 ~~ãrson~~
 
