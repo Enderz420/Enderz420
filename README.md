@@ -1,17 +1,23 @@
 # more pending soon
 ![Visitor Count](https://profile-counter.glitch.me/{Enderz420}/count.svg)
-## What I do
-~~arson~~
-
-## I love 💰💰💰💰
+## Who am I
+<ul>
+<li>My name is Adrian</li>
+<li>Currently Studying Informasjonsteknologi og Medieproduksjon VG1 @ Tiller VGS</li>
+<li>CTF Player during free time</li>
+<li>I love 💰💰💰💰</li>
+</ul>
 
 ---
 
 ##  Stats
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enderz420&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=tokyonight)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
+</div>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
