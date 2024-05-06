@@ -1,11 +1,11 @@
-# more pending soon
+# more pending soon :trollface:
 ![Visitor Count](https://profile-counter.glitch.me/{Enderz420}/count.svg)
 ## Who am I
 <ul>
 <li>📛 My name is Adrian</li>
 <li>📖 Currently Studying Informasjonsteknologi og Medieproduksjon VG1 @ Tiller VGS</li>
 <li>💻 CTF Player during free time</li>
-<li>💸 I love 💰💰💰💰</li>
+<li>💰 I love 💰💰💰💰</li>
 </ul>
 
 ### Pages to find me
