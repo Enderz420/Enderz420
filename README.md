@@ -1,5 +1,8 @@
 # more pending soon :trollface:
-![Visitor Count](https://profile-counter.glitch.me/{Enderz420}/count.svg)
+<div align=center>
+ <img src="https://profile-counter.glitch.me/{Enderz420}/count.svg">
+</div>
+
 ## Who am I
 <ul>
 <li>📛 My name is Adrian</li>
