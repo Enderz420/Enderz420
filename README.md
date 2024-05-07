@@ -22,13 +22,23 @@
 [![OS](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 <details>
-<summary><h3>cool stats?</h3></summary>
+<summary><h2>stats?</h2></summary>
 <br>
  <div style="display: flex; flex-direction: row;">
   <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
   <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
  </div>
 </details>
+
+
+
+<h3>What am I listening to?</h3>
+<div align="left">
+  <a href="https://open.spotify.com/user/pk4k4lt59ww2k80nig9z0wp3i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pk4k4lt59ww2k80nig9z0wp3i&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
 ---
 ### Pages to find me
