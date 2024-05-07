@@ -11,8 +11,6 @@
 <li>💰 I love 💰💰💰💰</li>
 </ul>
 
-### What I do
-
 ### Languages I know
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,cs)](https://skillicons.dev)
 
@@ -23,8 +21,16 @@
 ### OS
 [![OS](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
+<details>
+<summary><h3>cool stats?</h3></summary>
+<br>
+ <div style="display: flex; flex-direction: row;">
+  <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
+  <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
+ </div>
+</details>
 
-
+---
 ### Pages to find me
 <div>
  <ul>
@@ -32,11 +38,4 @@
   <li><a href="https://www.reddit.com/user/Endersz420/">Reddit (why would you go on there)</a></li>
   <li><a href="https://www.youtube.com/channel/UCAw-dJXtdftu5s753mOxHTg">Youtube</a></li>
  </ul>
-</div>
-
-##  cool stats
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
- <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
 </div>
