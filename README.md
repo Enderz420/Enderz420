@@ -49,5 +49,3 @@
   <a href="https://www.youtube.com/channel/UCAw-dJXtdftu5s753mOxHTg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
  </ul>
 </div>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
