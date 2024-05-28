@@ -44,8 +44,8 @@
 ### Pages to find me
 <div>
  <ul>
-  <a href="https://steamcommunity.com/id/enderz263"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a>
-  <a href="https://www.reddit.com/user/Endersz420/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCAw-dJXtdftu5s753mOxHTg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <li><a href="https://steamcommunity.com/id/enderz263"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a></li><br>
+  <li><a href="https://www.reddit.com/user/Endersz420/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a></li><br>
+  <li><a href="https://www.youtube.com/channel/UCAw-dJXtdftu5s753mOxHTg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a></li>
  </ul>
 </div>
