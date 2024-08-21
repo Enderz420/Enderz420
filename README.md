@@ -6,7 +6,7 @@
 ## Who am I
 <ul>
 <li>🗒️ My name is Adrian</li>
-<li>📖 Currently Studying Informasjonsteknologi og Medieproduksjon VG1 @ Tiller VGS</li>
+<li>📖 Currently Studying Informasjonsteknologi VG2 @ Tiller VGS</li>
 <li>💻 CTF Player during free time</li>
 <li>💰 I love 💰💰💰💰</li>
 </ul>
