@@ -5,10 +5,10 @@
 
 ## Who am I
 
-### 🗒️ My name is Adrian
-### 📖 Currently Studying Informasjonsteknologi VG2 @ Tiller VGS
-### 💻 CTF Player during free time
-### 🖥️ Programmer Passion
+* ### 🗒️ My name is Adrian
+* ### 📖 Currently Studying Informasjonsteknologi VG2 @ Tiller VGS
+* ### 💻 CTF Player during free time
+* ### 🖥️ Programmer Passion
 
 ### Languages I know
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,cs)](https://skillicons.dev)
