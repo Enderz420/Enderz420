@@ -4,12 +4,11 @@
 </div>
 
 ## Who am I
-<ul>
-<li>🗒️ My name is Adrian</li>
-<li>📖 Currently Studying Informasjonsteknologi VG2 @ Tiller VGS</li>
-<li>💻 CTF Player during free time</li>
-<li>💰 I love 💰💰💰💰</li>
-</ul>
+
+### 🗒️ My name is Adrian
+### 📖 Currently Studying Informasjonsteknologi VG2 @ Tiller VGS
+### 💻 CTF Player during free time
+### 🖥️ Programmer Passion
 
 ### Languages I know
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,cs)](https://skillicons.dev)
