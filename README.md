@@ -44,7 +44,10 @@
 ---
 ### Pages to find me
 
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<div style="display: flex; flex-direction: row;">
+ <ul>
+  <a href="https://steamcommunity.com/id/enderz263"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a><br>
+  <a href="https://www.reddit.com/user/Endersz420/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a><br>
+  <a href="https://www.youtube.com/channel/UCAw-dJXtdftu5s753mOxHTg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+ </ul>
+</div>
