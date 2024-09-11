@@ -19,6 +19,8 @@
 
 ### OS
 [![OS](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
 
 <details>
 <summary><h2>stats?</h2></summary>
