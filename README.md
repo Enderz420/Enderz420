@@ -11,7 +11,7 @@
 * ### 🖥️ Programmer Passion
 
 ### Languages I know
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,cs,js,ts)](https://skillicons.dev)
 
 ### IDE of choice 
 
