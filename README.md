@@ -21,15 +21,12 @@
 [![OS](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-
-<details>
-<summary><h2>stats?</h2></summary>
-<br>
- <div style="display: flex; flex-direction: row;">
-  <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
+ <h2 align="center">stats</h2>
+ <p align="center">
   <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
- </div>
-</details>
+  <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
+ </p>
+
 
 
 
