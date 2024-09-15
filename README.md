@@ -23,8 +23,8 @@
 
  <h2 align="center">stats</h2>
  <p align="center">
-  <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=radical&layout=compact" />
-  <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=radical" />
+  <img class="img" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enderz420&theme=tokyonight&layout=compact"/>
+  <img class="img" align=center src="https://github-readme-stats.vercel.app/api?username=Enderz420&show_icons=true&theme=tokyonight" />
  </p>
 
 
