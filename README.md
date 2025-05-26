@@ -5,6 +5,3 @@
 </picture>
 
 
-
-### Currently working on...
-[TillerQuest](https://github.com/jonp-h/TillerQuest)
